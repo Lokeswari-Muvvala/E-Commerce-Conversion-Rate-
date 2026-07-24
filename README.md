@@ -117,7 +117,7 @@ The dashboard provides several valuable insights into customer conversion behavi
 Below is a preview of the Excel dashboard:
 
 **Link:**  
-https://github.com/Lokeswari-Muvvala/E-Commerce-Conversion-Rate/blob/main/Dashboard_Screenshot.png
+https://github.com/Lokeswari-Muvvala/E-Commerce-Conversion-Rate-/blob/main/Dashboard_Screenshot.png
 
 
 
